@@ -12,9 +12,10 @@
 <a href="#"><img title="tessaMwol" src="https://img.shields.io/badge/🧚‍♀️tessamowl🧚‍♀️-tessa?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/Rejisan-mkz"><img title="Author" src="https://img.shields.io/badge/Author-tessa/tessamwol?color=black&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Rejisan-mkz"><img title="Author" src="https://img.shields.io/badge/OWNER-Rejisan-mkz/tessa?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
+  
 <p align="center">
 Project created by <a href="https://github.com/Rejisan-mkz">Rejisan-mkz</a> to make it public
     <br>
