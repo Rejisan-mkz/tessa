@@ -91,7 +91,7 @@ $ node qr.js
 $ node bot.js
 ```
 
- ##You can reach me via [Telegram](https://t.me/REJISAN).
+ ✰You can reach me via [Telegram](https://t.me/REJISAN).✰
 
 ### ⚠️ Warning!⚠️ 
 ```
