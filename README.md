@@ -50,10 +50,10 @@ the user is responsible.
 ```
 
 
-## Setup
+## 👻Setup🧚‍♀️tessamowl🧚‍♀️
 <div align="center">
 
-  ### Simple Method
+  ### 👻Simple Method👻
   
   [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
@@ -86,7 +86,7 @@ Absolutely, Asena executives do not accept responsibility.
 By establishing the Asena, you are deemed to have accepted these responsibilities.
 ```
   
-## Developers
+## Developers 👻Rejisan-mkz👻
   <div align="center">
     
   [![Farhan-Dqz](https://github.com/farhan-dqz.png?size=100)](https://github.com/farhan-dqz) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![Rejisan-mkz](https://github.com/Rejisan-mkz.png?size=100)](https://github.com/Rejisan-mkz) 
@@ -101,3 +101,6 @@ This project is protected by `GNU General Public Licence v3.0` license.
 
 ### Disclaimer
 `WhatsApp` name, its variations and the logo are registered trademarks of Facebook. We have nothing to do with the registered trademark
+
+##  ✨creator  😎Rejisan-mkz 😎
+  ## 🧚‍♀️tessamowl🧚‍♀️
