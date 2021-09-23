@@ -64,21 +64,34 @@ Project created by <a href="https://github.com/Rejisan-mkz">Rejisan-mkz</a> to m
   
   
   
-   If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Termux
+   If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Te
+
+   ### ✰The Hard Method✰
+```js
+GET QR
+$ apt update
+$ apt install nodejs --fix-missing
+$ pkg install git
+$ git clone https://github.com/Rejisan-mkz/tessa
+$ cd tessa
+$ chmod +x *
+$ npm install @adiwajshing/baileys
+$ npm install chalk
+$ node qr.js
 ```
-bash <(curl -L https://t.ly/tHxh)
-``` 
+      
+```js
+SETUP
+$ git clone https://github.com/Rejisan-mkz/tessa
+$ cd tessa
+$ chmod +x *
+$ npm i
+$ node qr.js
+   // scan the qr using whatsapp web on your phone
+$ node bot.js
+```
 
-## F.A.Q
-Answer a few frequently asked questions;
-### Can you read my messages?
-This project is open source so all the codes are clear. Neither less nor more; you can look what you want. **We absolutely do not have access to your accounts.**
-
-### What about our security?
-If you are concerned about security, you can install it on your own computer. If you think someone else has captured your data, simply click on **Whatsapp> Three Dots> Whatsapp Web> Logout** from all sessions button.
-
-### Is it paid?
-**Of course not.** It will never happen. But you can donate to us. You can reach me via [Telegram](https://t.me/fusuf) .
+ ##You can reach me via [Telegram](https://t.me/REJISAN).
 
 ### ⚠️ Warning!⚠️ 
 ```
