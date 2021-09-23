@@ -4,7 +4,7 @@
 
   ## Thanks for Everything 
 ### We will always remember you..
-# By Rejisan-mkz 🧚‍♀️tessamowl🧚‍♀️
+# ✰By Rejisan-mkz✰ 🧚‍♀️tessamowl🧚‍♀️
 
 <div align="center">
   <img border-radius: 15px src="tessa.jpg" width="170" height="170"/>
@@ -54,10 +54,10 @@ the user is responsible.
 ```
 
 
-## 👻Setup🧚‍♀️tessamowl🧚‍♀️
+## ✰Setup🧚‍♀️tessamowl🧚‍♀️
 <div align="center">
 
-  ### 👻Simple Method👻
+  ### ✰Simple Method✰
   
   [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
@@ -66,7 +66,16 @@ the user is responsible.
      </div>
 <br>
 <br >
-If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Termux
+       <div align="center">
+
+ <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg">
+ 
+ <div align="left">
+  
+  
+  
+  
+   If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Termux
 ```
 bash <(curl -L https://t.ly/tHxh)
 ``` 
@@ -90,7 +99,7 @@ Absolutely, Asena executives do not accept responsibility.
 By establishing the Asena, you are deemed to have accepted these responsibilities.
 ```
   
-## Developers 👻Rejisan-mkz👻
+## Developers ✰Rejisan-mkz✰
   <div align="center">
     
   [![Farhan-Dqz](https://github.com/farhan-dqz.png?size=100)](https://github.com/farhan-dqz) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![Rejisan-mkz](https://github.com/Rejisan-mkz.png?size=100)](https://github.com/Rejisan-mkz) 
@@ -106,5 +115,5 @@ This project is protected by `GNU General Public Licence v3.0` license.
 ### Disclaimer
 `WhatsApp` name, its variations and the logo are registered trademarks of Facebook. We have nothing to do with the registered trademark
 
-##  ✨creator  😎Rejisan-mkz 😎
+##  ✨creator ✰Rejisan-mkz✰
   ## 🧚‍♀️tessamowl🧚‍♀️
